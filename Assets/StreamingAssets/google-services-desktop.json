@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "41242610692",
+    "firebase_url": "https://fir-testing-dba48-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-testing-dba48",
+    "storage_bucket": "fir-testing-dba48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41242610692:android:dba39e707c6df05871f951",
+        "android_client_info": {
+          "package_name": "com.TehreerAhmed.FirebaseTesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMscIq-FnHLof_hKe8uCO90wheoQ0CXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
